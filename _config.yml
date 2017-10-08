@@ -1,1 +1,15 @@
+title: Homepage Matthieu Doutreligne
+author: Matthieu Doutreligne
+email: matthieu.doutreligne@polytechnique.edu
+description: Student in statistical learning at Ensae, student at MVA of ENS Paris-Saclay, Student at Polytechnique
+baseurl: ""
+url: "http://strayMat.github.io/"
+github_username:  strayMat
+#twitter_username: matthieu.doutreligne
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+#paginate: 5
+
 theme: jekyll-theme-cayman
