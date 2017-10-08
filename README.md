@@ -1,1 +1,1 @@
-## \href{https://straymat.github.io/}{Matthieu Doutreligne} github page 
+## [Matthieu Doutreligne]{https://straymat.github.io/} github page 
