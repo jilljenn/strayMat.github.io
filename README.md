@@ -1,1 +1,1 @@
-## [Matthieu Doutreligne]{https://straymat.github.io/} github page 
+## [Matthieu Doutreligne](https://straymat.github.io/) github page 
