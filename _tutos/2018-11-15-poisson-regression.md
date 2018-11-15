@@ -1,7 +1,7 @@
 ---
 layout: tuto
-title: Régression de Poisson
-date: 2018-15-11
+title: "Régression de Poisson"
+date: 2018-11-15
 ---
 
 Hello
