@@ -3,10 +3,10 @@ layout: default
 title: Matthieu Doutreligne's Tutos
 ---
 <h1>{{ page.title }}</h1>
-<ul class="posts">
+<ul class="tutos">
 
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+  {% for tuto in site.tutos %}
+    <li><span>{{ tuto.date | date_to_string }}</span> &raquo; <a href="{{ tuto.url }}" title="{{ tuto.title }}">{{ tuto.title }}</a></li>
   {% endfor %}
     
 </ul>
